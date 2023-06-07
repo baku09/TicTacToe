@@ -1,5 +1,5 @@
 # TicTacToe
-
+Prosta gra Kółko i krzyżyk
 
 
 public class TicTacToe {
