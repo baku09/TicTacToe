@@ -1,5 +1,5 @@
 # TicTacToe
-Prosta gra Kółko i krzyżyk wyświtlająca już wpisane odrazu pola przez  "X" i "O".
+
 public class TicTacToe {
     public static void main(String[] args) {
         int wymiar =3;
